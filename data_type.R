@@ -1,0 +1,9 @@
+a=7
+a
+class(a)
+typeof(a)
+a=as.integer(a)
+class(a)
+typeof(a)
+b="true"
+is.integer(a)
